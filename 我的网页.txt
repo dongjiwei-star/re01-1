@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+	<head>
+		<meta charset="uf-8">
+		<meta name="viewport" content="widht=device-widht, initial-scale=1"/>
+		<title>个人网页</title>
+	</head>
+	<body style="margin: 0;">
+		<div style="
+		 background-color: #f1f1f1;
+		 text-aling: center;
+		 padding: 40px;  
+		 "
+		>  	
+			<img alt="浅陌如尘" src="https://s21.ax1x.com/2024/09/09/pAmK2XF.jpg" width="80px" height="80px">
+		</div>
+		<div style="
+		 max-width: 70px;
+		 margin:80px auto;
+		 
+		> 
+			<p>穷酸命运富烧香.颠颠倒倒问阴阳</p>
+			<p>如实做好分内事,何须贵神赐良方</p>
+			<p>十人烧香九为财,又有几柱真香来</p>
+			<p>申明不缺三炷香,善心善念财自来</p>
+		</div>
+		<div style="margin: 0;">
+		<div style="
+		 background-color: #f1f1f1;
+		 text-aling: center;
+		 padding: 40px;
+		 font-size: 12px;  
+		  "
+		>  
+		 <p>版权所有: donfjiwei.com</p
+		 <a href=""
+		</div>
+	</body>
+</html>	
